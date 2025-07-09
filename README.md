@@ -2,6 +2,10 @@
 <br>
 A simple and interactive Tic Tac Toe game built using HTML/CSS/JAVASCRPT. This game allows two players to complete in a classic 3x3 grid gormat.
 
+## 🚀 Live Demo
+<br>
+ https://nadeemansari-na.github.io/TICTACTOE/
+
 ## 🛠️ Built With
 
 - Language
