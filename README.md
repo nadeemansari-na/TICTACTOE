@@ -12,3 +12,5 @@ A simple and interactive Tic Tac Toe game built using HTML/CSS/JAVASCRPT. This g
 - Detects win, draw, and invalid moves
 
 ## 📸 Demo
+![screenshot](https://github.com/user-attachments/assets/5c6fae23-a598-40a6-bb10-3132dc69312e)(demo.gif)
+
