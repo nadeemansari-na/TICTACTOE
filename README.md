@@ -5,12 +5,12 @@ A simple and interactive Tic Tac Toe game built using HTML/CSS/JAVASCRPT. This g
 ## 🛠️ Built With
 
 - Language
-- <br>
+   <br>
   . HTML
   <br>
   . CSS
   <br>
-  .JAVASCRIPT
+  . JAVASCRIPT
 
 ## 📌 Features
 - Two-player mode (Player vs Player)
