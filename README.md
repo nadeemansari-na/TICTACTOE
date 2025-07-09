@@ -4,7 +4,10 @@ A simple and interactive Tic Tac Toe game built using HTML/CSS/JAVASCRPT. This g
 
 ## 🛠️ Built With
 
-- Language: Python / JavaScript / Java / C++ / etc.
+- Language
+  . HTML
+  . CSS
+  .JAVASCRIPT
 
 ## 📌 Features
 - Two-player mode (Player vs Player)
