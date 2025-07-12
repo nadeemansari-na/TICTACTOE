@@ -85,6 +85,7 @@ Array.from(boxes).forEach((element) => {
     element.addEventListener(`click`, () => {
         if (textbox.innerText === ``) {
             textbox.innerText = Turn;
+            audioTurn.play()
             Turn = changeTurn();
 
             checkWin();
